@@ -1,2 +1,2 @@
 # Laravel-Ecommerce-Website
-It is a laravel ecommerce website. Laravel framework, php, html, css etc have been used to make it. Also a database has been created.
+This is an ecommerce project using Laravel Framework where basic operations of an ecommerce website were shown. Such as crud operations of product, category and manufacture, admin and customer login, authentication, checkout, payment.
